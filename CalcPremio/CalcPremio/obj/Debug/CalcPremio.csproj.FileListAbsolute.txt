@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\projetosvisual\CalcPremio\CalcPremio\bin\Debug\CalcPremio.exe.config
+C:\Users\Felipe\Desktop\projetosvisual\CalcPremio\CalcPremio\bin\Debug\CalcPremio.exe
+C:\Users\Felipe\Desktop\projetosvisual\CalcPremio\CalcPremio\bin\Debug\CalcPremio.pdb
+C:\Users\Felipe\Desktop\projetosvisual\CalcPremio\CalcPremio\obj\Debug\CalcPremio.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\projetosvisual\CalcPremio\CalcPremio\obj\Debug\CalcPremio.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\projetosvisual\CalcPremio\CalcPremio\obj\Debug\CalcPremio.exe
+C:\Users\Felipe\Desktop\projetosvisual\CalcPremio\CalcPremio\obj\Debug\CalcPremio.pdb

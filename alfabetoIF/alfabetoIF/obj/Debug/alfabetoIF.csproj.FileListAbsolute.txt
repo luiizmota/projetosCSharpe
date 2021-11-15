@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\projetosvisual\alfabetoIF\alfabetoIF\bin\Debug\alfabetoIF.exe.config
+C:\Users\Felipe\Desktop\projetosvisual\alfabetoIF\alfabetoIF\bin\Debug\alfabetoIF.exe
+C:\Users\Felipe\Desktop\projetosvisual\alfabetoIF\alfabetoIF\bin\Debug\alfabetoIF.pdb
+C:\Users\Felipe\Desktop\projetosvisual\alfabetoIF\alfabetoIF\obj\Debug\alfabetoIF.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\projetosvisual\alfabetoIF\alfabetoIF\obj\Debug\alfabetoIF.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\projetosvisual\alfabetoIF\alfabetoIF\obj\Debug\alfabetoIF.exe
+C:\Users\Felipe\Desktop\projetosvisual\alfabetoIF\alfabetoIF\obj\Debug\alfabetoIF.pdb
